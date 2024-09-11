@@ -10,4 +10,4 @@ Currently the code is  a PyQGIS script, which should be run from inside QGIS. Ge
 - Downloading and preprocessing the sector light geodata. It must be a geopackage and it must include attributes on the height (meters from water), brightness (candelas), optical range (meters), light sector start angle, end angle, central angle and total width of the sector light. 
 - editing the code. At least paths need to be changed. Only linux has been tested, so running the script on other systems may require major tinkering
 
-### In summary, if you want to actually run the code you should contact me. The script is nowhere near completed piece of software, and is known to contain bugs that prevent the processing of small portion of the features.
+### In summary, if you want to actually run the code, you should be prepared to modify the code. The script is nowhere near completed piece of software, and is known to contain bugs that prevent the processing of small portion of the features.
